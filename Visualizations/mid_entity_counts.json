@@ -1,0 +1,2690 @@
+[
+    {
+        "entity": "Aaron",
+        "count": 34
+    },
+    {
+        "entity": "Abahu",
+        "count": 5
+    },
+    {
+        "entity": "Abba",
+        "count": 34
+    },
+    {
+        "entity": "Abel",
+        "count": 1
+    },
+    {
+        "entity": "Abraham",
+        "count": 64
+    },
+    {
+        "entity": "Abram",
+        "count": 7
+    },
+    {
+        "entity": "Adam",
+        "count": 6
+    },
+    {
+        "entity": "Adar",
+        "count": 8
+    },
+    {
+        "entity": "Adar Moses",
+        "count": 1
+    },
+    {
+        "entity": "Adarkian",
+        "count": 1
+    },
+    {
+        "entity": "Adonai",
+        "count": 2
+    },
+    {
+        "entity": "Adoniya",
+        "count": 3
+    },
+    {
+        "entity": "Adoniyahu",
+        "count": 2
+    },
+    {
+        "entity": "Africa",
+        "count": 1
+    },
+    {
+        "entity": "Agrippa",
+        "count": 1
+    },
+    {
+        "entity": "Agur",
+        "count": 2
+    },
+    {
+        "entity": "Ah",
+        "count": 4
+    },
+    {
+        "entity": "Ahab",
+        "count": 1
+    },
+    {
+        "entity": "Akiva",
+        "count": 11
+    },
+    {
+        "entity": "Akko",
+        "count": 2
+    },
+    {
+        "entity": "Alef",
+        "count": 3
+    },
+    {
+        "entity": "Alexandria",
+        "count": 4
+    },
+    {
+        "entity": "Almighty",
+        "count": 1
+    },
+    {
+        "entity": "Amalek",
+        "count": 6
+    },
+    {
+        "entity": "Amalekite",
+        "count": 1
+    },
+    {
+        "entity": "Ami",
+        "count": 5
+    },
+    {
+        "entity": "Amida",
+        "count": 1
+    },
+    {
+        "entity": "Aminadav",
+        "count": 1
+    },
+    {
+        "entity": "Amon",
+        "count": 24
+    },
+    {
+        "entity": "Amonite",
+        "count": 8
+    },
+    {
+        "entity": "Amonites",
+        "count": 5
+    },
+    {
+        "entity": "Amos",
+        "count": 14
+    },
+    {
+        "entity": "Amram",
+        "count": 5
+    },
+    {
+        "entity": "Anaf Yosef",
+        "count": 1
+    },
+    {
+        "entity": "Anatot",
+        "count": 1
+    },
+    {
+        "entity": "Ancient One",
+        "count": 1
+    },
+    {
+        "entity": "Antoninus",
+        "count": 1
+    },
+    {
+        "entity": "Anuv",
+        "count": 2
+    },
+    {
+        "entity": "Arab",
+        "count": 12
+    },
+    {
+        "entity": "Arabia",
+        "count": 9
+    },
+    {
+        "entity": "Arabian",
+        "count": 1
+    },
+    {
+        "entity": "Arabic",
+        "count": 1
+    },
+    {
+        "entity": "Arabs",
+        "count": 1
+    },
+    {
+        "entity": "Arad\u2026heard",
+        "count": 1
+    },
+    {
+        "entity": "Aram",
+        "count": 5
+    },
+    {
+        "entity": "Aramaic",
+        "count": 2
+    },
+    {
+        "entity": "Aramean",
+        "count": 1
+    },
+    {
+        "entity": "Arava",
+        "count": 3
+    },
+    {
+        "entity": "Ardon",
+        "count": 2
+    },
+    {
+        "entity": "Aren",
+        "count": 1
+    },
+    {
+        "entity": "Arise",
+        "count": 3
+    },
+    {
+        "entity": "Ark",
+        "count": 1
+    },
+    {
+        "entity": "Armenis",
+        "count": 1
+    },
+    {
+        "entity": "Asa",
+        "count": 2
+    },
+    {
+        "entity": "Ascend",
+        "count": 2
+    },
+    {
+        "entity": "Ashkelon",
+        "count": 2
+    },
+    {
+        "entity": "Ashtarot",
+        "count": 1
+    },
+    {
+        "entity": "Ash\u1e25ur",
+        "count": 4
+    },
+    {
+        "entity": "Asia",
+        "count": 1
+    },
+    {
+        "entity": "Assyria",
+        "count": 3
+    },
+    {
+        "entity": "Athenian",
+        "count": 18
+    },
+    {
+        "entity": "Athens",
+        "count": 3
+    },
+    {
+        "entity": "Augustus",
+        "count": 1
+    },
+    {
+        "entity": "Av",
+        "count": 39
+    },
+    {
+        "entity": "Avi Gedor",
+        "count": 1
+    },
+    {
+        "entity": "Avi Sokho",
+        "count": 1
+    },
+    {
+        "entity": "Avi Zano",
+        "count": 1
+    },
+    {
+        "entity": "Avihu",
+        "count": 1
+    },
+    {
+        "entity": "Avimelech",
+        "count": 1
+    },
+    {
+        "entity": "Avimelekh",
+        "count": 1
+    },
+    {
+        "entity": "Aviram",
+        "count": 4
+    },
+    {
+        "entity": "Avites",
+        "count": 1
+    },
+    {
+        "entity": "Avoda Zara",
+        "count": 1
+    },
+    {
+        "entity": "Avshalom",
+        "count": 8
+    },
+    {
+        "entity": "Avun",
+        "count": 3
+    },
+    {
+        "entity": "Azai",
+        "count": 3
+    },
+    {
+        "entity": "Azarya",
+        "count": 7
+    },
+    {
+        "entity": "Azuva",
+        "count": 4
+    },
+    {
+        "entity": "Babylon",
+        "count": 28
+    },
+    {
+        "entity": "Babylonian Talmud",
+        "count": 1
+    },
+    {
+        "entity": "Babylonians",
+        "count": 1
+    },
+    {
+        "entity": "Badad",
+        "count": 1
+    },
+    {
+        "entity": "Baitus",
+        "count": 3
+    },
+    {
+        "entity": "Balak",
+        "count": 1
+    },
+    {
+        "entity": "Bamidbar",
+        "count": 16
+    },
+    {
+        "entity": "Bar Kapara",
+        "count": 1
+    },
+    {
+        "entity": "Bar Kappara",
+        "count": 2
+    },
+    {
+        "entity": "Bashan",
+        "count": 8
+    },
+    {
+        "entity": "Batya",
+        "count": 2
+    },
+    {
+        "entity": "Bava Batra",
+        "count": 1
+    },
+    {
+        "entity": "Beautiful",
+        "count": 2
+    },
+    {
+        "entity": "Begot Anuv",
+        "count": 1
+    },
+    {
+        "entity": "Behold",
+        "count": 14
+    },
+    {
+        "entity": "Beit",
+        "count": 14
+    },
+    {
+        "entity": "Beit Hillel",
+        "count": 6
+    },
+    {
+        "entity": "Beit Rimon Valley",
+        "count": 1
+    },
+    {
+        "entity": "Beit Shammai",
+        "count": 5
+    },
+    {
+        "entity": "Bekher",
+        "count": 1
+    },
+    {
+        "entity": "Bela",
+        "count": 1
+    },
+    {
+        "entity": "Ben Haddad",
+        "count": 2
+    },
+    {
+        "entity": "Ben Tzitzit",
+        "count": 1
+    },
+    {
+        "entity": "Benei",
+        "count": 1
+    },
+    {
+        "entity": "Benjamin",
+        "count": 11
+    },
+    {
+        "entity": "Beor",
+        "count": 1
+    },
+    {
+        "entity": "Berakhot",
+        "count": 2
+    },
+    {
+        "entity": "Bereishit",
+        "count": 1
+    },
+    {
+        "entity": "Berekhya",
+        "count": 21
+    },
+    {
+        "entity": "Bereshit",
+        "count": 8
+    },
+    {
+        "entity": "Bereshit God",
+        "count": 1
+    },
+    {
+        "entity": "Bereshit Rabba",
+        "count": 1
+    },
+    {
+        "entity": "Bereshith",
+        "count": 4
+    },
+    {
+        "entity": "Beshevet",
+        "count": 1
+    },
+    {
+        "entity": "Bethira",
+        "count": 1
+    },
+    {
+        "entity": "Bethlehem",
+        "count": 2
+    },
+    {
+        "entity": "Between",
+        "count": 2
+    },
+    {
+        "entity": "Betzalel",
+        "count": 4
+    },
+    {
+        "entity": "Bible",
+        "count": 5
+    },
+    {
+        "entity": "Bilam",
+        "count": 13
+    },
+    {
+        "entity": "Bilha",
+        "count": 1
+    },
+    {
+        "entity": "Birat Arva",
+        "count": 1
+    },
+    {
+        "entity": "Bitya",
+        "count": 5
+    },
+    {
+        "entity": "Bokhim",
+        "count": 1
+    },
+    {
+        "entity": "Bore Yered",
+        "count": 1
+    },
+    {
+        "entity": "Caesarea",
+        "count": 3
+    },
+    {
+        "entity": "Caleb",
+        "count": 14
+    },
+    {
+        "entity": "Calf",
+        "count": 9
+    },
+    {
+        "entity": "Canaan",
+        "count": 6
+    },
+    {
+        "entity": "Canaanite",
+        "count": 3
+    },
+    {
+        "entity": "Canaanites",
+        "count": 2
+    },
+    {
+        "entity": "Cappadocia",
+        "count": 3
+    },
+    {
+        "entity": "Cedars",
+        "count": 1
+    },
+    {
+        "entity": "Chanina",
+        "count": 1
+    },
+    {
+        "entity": "Chronicles",
+        "count": 37
+    },
+    {
+        "entity": "Comfort",
+        "count": 6
+    },
+    {
+        "entity": "Command",
+        "count": 18
+    },
+    {
+        "entity": "Commandments",
+        "count": 4
+    },
+    {
+        "entity": "Complainers",
+        "count": 1
+    },
+    {
+        "entity": "Correspondingly",
+        "count": 3
+    },
+    {
+        "entity": "Count",
+        "count": 1
+    },
+    {
+        "entity": "Covenant",
+        "count": 1
+    },
+    {
+        "entity": "Creation",
+        "count": 10
+    },
+    {
+        "entity": "Cuthite",
+        "count": 6
+    },
+    {
+        "entity": "Cypress",
+        "count": 3
+    },
+    {
+        "entity": "Cyprus",
+        "count": 1
+    },
+    {
+        "entity": "Cyrus",
+        "count": 6
+    },
+    {
+        "entity": "Dama",
+        "count": 10
+    },
+    {
+        "entity": "Damascus",
+        "count": 8
+    },
+    {
+        "entity": "Dan",
+        "count": 24
+    },
+    {
+        "entity": "Daniel",
+        "count": 20
+    },
+    {
+        "entity": "Darius",
+        "count": 3
+    },
+    {
+        "entity": "Darkness",
+        "count": 1
+    },
+    {
+        "entity": "Datan",
+        "count": 5
+    },
+    {
+        "entity": "David",
+        "count": 53
+    },
+    {
+        "entity": "David Luria",
+        "count": 6
+    },
+    {
+        "entity": "Dedanites",
+        "count": 1
+    },
+    {
+        "entity": "Desert",
+        "count": 1
+    },
+    {
+        "entity": "Deuteronomy",
+        "count": 88
+    },
+    {
+        "entity": "Devarim",
+        "count": 8
+    },
+    {
+        "entity": "Devarim Rabba",
+        "count": 2
+    },
+    {
+        "entity": "Di Zahav",
+        "count": 1
+    },
+    {
+        "entity": "Did Moses",
+        "count": 1
+    },
+    {
+        "entity": "Dispersion",
+        "count": 1
+    },
+    {
+        "entity": "Divine",
+        "count": 38
+    },
+    {
+        "entity": "Divine Presence",
+        "count": 25
+    },
+    {
+        "entity": "Divine Spirit",
+        "count": 12
+    },
+    {
+        "entity": "Divine Voice",
+        "count": 1
+    },
+    {
+        "entity": "Doeg",
+        "count": 1
+    },
+    {
+        "entity": "Don",
+        "count": 1
+    },
+    {
+        "entity": "Dormaskith",
+        "count": 3
+    },
+    {
+        "entity": "Dosa",
+        "count": 2
+    },
+    {
+        "entity": "Drew",
+        "count": 1
+    },
+    {
+        "entity": "Due",
+        "count": 3
+    },
+    {
+        "entity": "Earth",
+        "count": 1
+    },
+    {
+        "entity": "East",
+        "count": 1
+    },
+    {
+        "entity": "Ecclesiastes",
+        "count": 6
+    },
+    {
+        "entity": "Ecclesiastes_Rabbah",
+        "count": 1
+    },
+    {
+        "entity": "Eden",
+        "count": 5
+    },
+    {
+        "entity": "Edom",
+        "count": 16
+    },
+    {
+        "entity": "Edre",
+        "count": 3
+    },
+    {
+        "entity": "Efrat",
+        "count": 4
+    },
+    {
+        "entity": "Eglon",
+        "count": 1
+    },
+    {
+        "entity": "Egypt",
+        "count": 133
+    },
+    {
+        "entity": "Egyptian",
+        "count": 53
+    },
+    {
+        "entity": "Egyptians",
+        "count": 23
+    },
+    {
+        "entity": "Eight",
+        "count": 3
+    },
+    {
+        "entity": "Eikha",
+        "count": 4
+    },
+    {
+        "entity": "Eilam",
+        "count": 2
+    },
+    {
+        "entity": "Eimi",
+        "count": 1
+    },
+    {
+        "entity": "Elam",
+        "count": 1
+    },
+    {
+        "entity": "Elazar",
+        "count": 24
+    },
+    {
+        "entity": "Eliezer",
+        "count": 13
+    },
+    {
+        "entity": "Elijah",
+        "count": 1
+    },
+    {
+        "entity": "Elisheva",
+        "count": 1
+    },
+    {
+        "entity": "Eliyahu",
+        "count": 1
+    },
+    {
+        "entity": "Elohim",
+        "count": 4
+    },
+    {
+        "entity": "Emet",
+        "count": 1
+    },
+    {
+        "entity": "Emorites",
+        "count": 3
+    },
+    {
+        "entity": "Emptiness",
+        "count": 2
+    },
+    {
+        "entity": "Enosh",
+        "count": 1
+    },
+    {
+        "entity": "Ephraim",
+        "count": 4
+    },
+    {
+        "entity": "Eretz Yisrael",
+        "count": 1
+    },
+    {
+        "entity": "Esau",
+        "count": 46
+    },
+    {
+        "entity": "Esther",
+        "count": 22
+    },
+    {
+        "entity": "Esther_Rabbah",
+        "count": 1
+    },
+    {
+        "entity": "Ethiopia",
+        "count": 1
+    },
+    {
+        "entity": "Etnan",
+        "count": 2
+    },
+    {
+        "entity": "Etz Yosef",
+        "count": 29
+    },
+    {
+        "entity": "Euphrates",
+        "count": 2
+    },
+    {
+        "entity": "Evildoers",
+        "count": 1
+    },
+    {
+        "entity": "Evyatar",
+        "count": 3
+    },
+    {
+        "entity": "Exalted",
+        "count": 1
+    },
+    {
+        "entity": "Exodus",
+        "count": 166
+    },
+    {
+        "entity": "Ezekiel",
+        "count": 43
+    },
+    {
+        "entity": "Ezra",
+        "count": 13
+    },
+    {
+        "entity": "Father",
+        "count": 9
+    },
+    {
+        "entity": "Festival",
+        "count": 3
+    },
+    {
+        "entity": "First Alphabetical Acrostic",
+        "count": 1
+    },
+    {
+        "entity": "Flesh",
+        "count": 1
+    },
+    {
+        "entity": "Flood",
+        "count": 4
+    },
+    {
+        "entity": "Fools",
+        "count": 1
+    },
+    {
+        "entity": "Gabriel",
+        "count": 9
+    },
+    {
+        "entity": "Gad",
+        "count": 2
+    },
+    {
+        "entity": "Gafna",
+        "count": 1
+    },
+    {
+        "entity": "Gam Zo",
+        "count": 1
+    },
+    {
+        "entity": "Gamla",
+        "count": 1
+    },
+    {
+        "entity": "Gamliel",
+        "count": 10
+    },
+    {
+        "entity": "Garden",
+        "count": 5
+    },
+    {
+        "entity": "Gaza",
+        "count": 4
+    },
+    {
+        "entity": "Geder",
+        "count": 1
+    },
+    {
+        "entity": "Gedor",
+        "count": 4
+    },
+    {
+        "entity": "Gehenna",
+        "count": 2
+    },
+    {
+        "entity": "Genesis",
+        "count": 132
+    },
+    {
+        "entity": "Gershom",
+        "count": 3
+    },
+    {
+        "entity": "Gideon",
+        "count": 1
+    },
+    {
+        "entity": "Gilgal",
+        "count": 1
+    },
+    {
+        "entity": "Givon",
+        "count": 1
+    },
+    {
+        "entity": "Glory",
+        "count": 6
+    },
+    {
+        "entity": "God",
+        "count": 298
+    },
+    {
+        "entity": "Gog",
+        "count": 3
+    },
+    {
+        "entity": "Golden Calf",
+        "count": 8
+    },
+    {
+        "entity": "Gomorrah",
+        "count": 1
+    },
+    {
+        "entity": "Gone",
+        "count": 3
+    },
+    {
+        "entity": "Great",
+        "count": 9
+    },
+    {
+        "entity": "Greece",
+        "count": 6
+    },
+    {
+        "entity": "Greek",
+        "count": 8
+    },
+    {
+        "entity": "Greeks",
+        "count": 1
+    },
+    {
+        "entity": "Grew",
+        "count": 1
+    },
+    {
+        "entity": "Ground",
+        "count": 1
+    },
+    {
+        "entity": "Guardian",
+        "count": 1
+    },
+    {
+        "entity": "Guryon",
+        "count": 1
+    },
+    {
+        "entity": "Hadad",
+        "count": 1
+    },
+    {
+        "entity": "Hadassa",
+        "count": 1
+    },
+    {
+        "entity": "Hadn",
+        "count": 1
+    },
+    {
+        "entity": "Hadrian",
+        "count": 3
+    },
+    {
+        "entity": "Hagar",
+        "count": 3
+    },
+    {
+        "entity": "Haggai",
+        "count": 4
+    },
+    {
+        "entity": "Haifa",
+        "count": 3
+    },
+    {
+        "entity": "Haman",
+        "count": 2
+    },
+    {
+        "entity": "Hamat",
+        "count": 1
+    },
+    {
+        "entity": "Hanasi",
+        "count": 1
+    },
+    {
+        "entity": "Hannah",
+        "count": 4
+    },
+    {
+        "entity": "Happy",
+        "count": 4
+    },
+    {
+        "entity": "Harness",
+        "count": 1
+    },
+    {
+        "entity": "Harsh",
+        "count": 1
+    },
+    {
+        "entity": "Harum",
+        "count": 2
+    },
+    {
+        "entity": "Has God",
+        "count": 1
+    },
+    {
+        "entity": "Hatzerot",
+        "count": 1
+    },
+    {
+        "entity": "Hatzoveva",
+        "count": 2
+    },
+    {
+        "entity": "Hear Israel",
+        "count": 2
+    },
+    {
+        "entity": "Heaven",
+        "count": 10
+    },
+    {
+        "entity": "Heb",
+        "count": 33
+    },
+    {
+        "entity": "Hebrew",
+        "count": 30
+    },
+    {
+        "entity": "Hebrews",
+        "count": 4
+    },
+    {
+        "entity": "Hewn Stone",
+        "count": 3
+    },
+    {
+        "entity": "Hezekiah",
+        "count": 2
+    },
+    {
+        "entity": "High",
+        "count": 9
+    },
+    {
+        "entity": "High Priest",
+        "count": 3
+    },
+    {
+        "entity": "High Priests",
+        "count": 1
+    },
+    {
+        "entity": "Hillel",
+        "count": 8
+    },
+    {
+        "entity": "Hinom",
+        "count": 1
+    },
+    {
+        "entity": "Hodu",
+        "count": 4
+    },
+    {
+        "entity": "Holies",
+        "count": 2
+    },
+    {
+        "entity": "Holy",
+        "count": 261
+    },
+    {
+        "entity": "Holy One",
+        "count": 258
+    },
+    {
+        "entity": "Hosea",
+        "count": 16
+    },
+    {
+        "entity": "House",
+        "count": 2
+    },
+    {
+        "entity": "Hu",
+        "count": 24
+    },
+    {
+        "entity": "Huna",
+        "count": 21
+    },
+    {
+        "entity": "Hur",
+        "count": 2
+    },
+    {
+        "entity": "Idi",
+        "count": 1
+    },
+    {
+        "entity": "Ido",
+        "count": 1
+    },
+    {
+        "entity": "Ilai",
+        "count": 7
+    },
+    {
+        "entity": "India",
+        "count": 6
+    },
+    {
+        "entity": "Isaac",
+        "count": 32
+    },
+    {
+        "entity": "Isaiah",
+        "count": 163
+    },
+    {
+        "entity": "Ishmael",
+        "count": 11
+    },
+    {
+        "entity": "Ishmaelites",
+        "count": 2
+    },
+    {
+        "entity": "Isn",
+        "count": 2
+    },
+    {
+        "entity": "Israel",
+        "count": 389
+    },
+    {
+        "entity": "Israelite",
+        "count": 38
+    },
+    {
+        "entity": "Israelites",
+        "count": 22
+    },
+    {
+        "entity": "Issachar",
+        "count": 2
+    },
+    {
+        "entity": "Itiel",
+        "count": 2
+    },
+    {
+        "entity": "Iyar",
+        "count": 1
+    },
+    {
+        "entity": "Jacob",
+        "count": 65
+    },
+    {
+        "entity": "Jeremiah",
+        "count": 104
+    },
+    {
+        "entity": "Jericho",
+        "count": 1
+    },
+    {
+        "entity": "Jeroboam",
+        "count": 1
+    },
+    {
+        "entity": "Jerusalem",
+        "count": 111
+    },
+    {
+        "entity": "Jerusalemite",
+        "count": 4
+    },
+    {
+        "entity": "Jew",
+        "count": 43
+    },
+    {
+        "entity": "Jewish",
+        "count": 12
+    },
+    {
+        "entity": "Jews",
+        "count": 19
+    },
+    {
+        "entity": "Job",
+        "count": 13
+    },
+    {
+        "entity": "Joel",
+        "count": 6
+    },
+    {
+        "entity": "Jordan",
+        "count": 3
+    },
+    {
+        "entity": "Joseph",
+        "count": 26
+    },
+    {
+        "entity": "Joshua",
+        "count": 9
+    },
+    {
+        "entity": "Judah",
+        "count": 40
+    },
+    {
+        "entity": "Judahite",
+        "count": 3
+    },
+    {
+        "entity": "Judea",
+        "count": 2
+    },
+    {
+        "entity": "Judean",
+        "count": 1
+    },
+    {
+        "entity": "Kaftor",
+        "count": 2
+    },
+    {
+        "entity": "Kaftorim",
+        "count": 1
+    },
+    {
+        "entity": "Kahana",
+        "count": 18
+    },
+    {
+        "entity": "Kalba Savua",
+        "count": 1
+    },
+    {
+        "entity": "Kapara",
+        "count": 5
+    },
+    {
+        "entity": "Kappara",
+        "count": 3
+    },
+    {
+        "entity": "Karkasyon",
+        "count": 1
+    },
+    {
+        "entity": "Karkemish",
+        "count": 1
+    },
+    {
+        "entity": "Kedar",
+        "count": 3
+    },
+    {
+        "entity": "Kefar Lekitaya",
+        "count": 1
+    },
+    {
+        "entity": "Kefar Mandi",
+        "count": 2
+    },
+    {
+        "entity": "Kefar \u1e24anan",
+        "count": 2
+    },
+    {
+        "entity": "Kenite",
+        "count": 2
+    },
+    {
+        "entity": "Kenizite",
+        "count": 1
+    },
+    {
+        "entity": "Ketev Meriri",
+        "count": 2
+    },
+    {
+        "entity": "Ketev Meriri90This",
+        "count": 1
+    },
+    {
+        "entity": "Keturah",
+        "count": 1
+    },
+    {
+        "entity": "Kevar River",
+        "count": 1
+    },
+    {
+        "entity": "Kilus",
+        "count": 1
+    },
+    {
+        "entity": "King",
+        "count": 59
+    },
+    {
+        "entity": "King A\u1e25ashverosh",
+        "count": 5
+    },
+    {
+        "entity": "Kingdom",
+        "count": 1
+    },
+    {
+        "entity": "Kistera",
+        "count": 1
+    },
+    {
+        "entity": "Know",
+        "count": 13
+    },
+    {
+        "entity": "Kodashim",
+        "count": 1
+    },
+    {
+        "entity": "Kohelet",
+        "count": 12
+    },
+    {
+        "entity": "Koheleth",
+        "count": 2
+    },
+    {
+        "entity": "Kor\u1e25a",
+        "count": 2
+    },
+    {
+        "entity": "Kotz",
+        "count": 2
+    },
+    {
+        "entity": "Kumi",
+        "count": 1
+    },
+    {
+        "entity": "Kush",
+        "count": 10
+    },
+    {
+        "entity": "Kushite",
+        "count": 2
+    },
+    {
+        "entity": "Laban",
+        "count": 2
+    },
+    {
+        "entity": "Lahen",
+        "count": 1
+    },
+    {
+        "entity": "Lakish",
+        "count": 11
+    },
+    {
+        "entity": "Lamas",
+        "count": 3
+    },
+    {
+        "entity": "Lamentations",
+        "count": 88
+    },
+    {
+        "entity": "Land",
+        "count": 17
+    },
+    {
+        "entity": "Lavan",
+        "count": 2
+    },
+    {
+        "entity": "Leah",
+        "count": 5
+    },
+    {
+        "entity": "Lebanon",
+        "count": 8
+    },
+    {
+        "entity": "Lemuel",
+        "count": 2
+    },
+    {
+        "entity": "Levanon",
+        "count": 1
+    },
+    {
+        "entity": "Levi",
+        "count": 151
+    },
+    {
+        "entity": "Levite",
+        "count": 34
+    },
+    {
+        "entity": "Levites",
+        "count": 24
+    },
+    {
+        "entity": "Leviticus",
+        "count": 28
+    },
+    {
+        "entity": "Licentiousness",
+        "count": 1
+    },
+    {
+        "entity": "Light",
+        "count": 2
+    },
+    {
+        "entity": "Lod",
+        "count": 5
+    },
+    {
+        "entity": "Lord",
+        "count": 265
+    },
+    {
+        "entity": "Lord God",
+        "count": 8
+    },
+    {
+        "entity": "Lot",
+        "count": 7
+    },
+    {
+        "entity": "Lydia",
+        "count": 2
+    },
+    {
+        "entity": "Maakha",
+        "count": 1
+    },
+    {
+        "entity": "Macedonia",
+        "count": 2
+    },
+    {
+        "entity": "Magog",
+        "count": 3
+    },
+    {
+        "entity": "Maharzu",
+        "count": 10
+    },
+    {
+        "entity": "Malachi",
+        "count": 6
+    },
+    {
+        "entity": "Mapelya",
+        "count": 1
+    },
+    {
+        "entity": "Marah",
+        "count": 1
+    },
+    {
+        "entity": "Master",
+        "count": 17
+    },
+    {
+        "entity": "Matnot Kehuna",
+        "count": 13
+    },
+    {
+        "entity": "Media",
+        "count": 16
+    },
+    {
+        "entity": "Median",
+        "count": 1
+    },
+    {
+        "entity": "Meeting",
+        "count": 20
+    },
+    {
+        "entity": "Megila",
+        "count": 1
+    },
+    {
+        "entity": "Megilla",
+        "count": 2
+    },
+    {
+        "entity": "Mem",
+        "count": 1
+    },
+    {
+        "entity": "Mena\u1e25em",
+        "count": 5
+    },
+    {
+        "entity": "Mered",
+        "count": 2
+    },
+    {
+        "entity": "Messiah",
+        "count": 6
+    },
+    {
+        "entity": "Micah",
+        "count": 8
+    },
+    {
+        "entity": "Micha",
+        "count": 1
+    },
+    {
+        "entity": "Midian",
+        "count": 6
+    },
+    {
+        "entity": "Midianite",
+        "count": 1
+    },
+    {
+        "entity": "Midrash",
+        "count": 8
+    },
+    {
+        "entity": "Midyan",
+        "count": 3
+    },
+    {
+        "entity": "Might",
+        "count": 2
+    },
+    {
+        "entity": "Mikhael",
+        "count": 2
+    },
+    {
+        "entity": "Miriam",
+        "count": 36
+    },
+    {
+        "entity": "Mishael",
+        "count": 4
+    },
+    {
+        "entity": "Mishna",
+        "count": 9
+    },
+    {
+        "entity": "Mishne",
+        "count": 1
+    },
+    {
+        "entity": "Moav",
+        "count": 19
+    },
+    {
+        "entity": "Moavite",
+        "count": 7
+    },
+    {
+        "entity": "Moavites",
+        "count": 4
+    },
+    {
+        "entity": "Modesty",
+        "count": 1
+    },
+    {
+        "entity": "Moed",
+        "count": 1
+    },
+    {
+        "entity": "Mordekhai",
+        "count": 2
+    },
+    {
+        "entity": "Moses",
+        "count": 274
+    },
+    {
+        "entity": "Most High",
+        "count": 3
+    },
+    {
+        "entity": "Mother",
+        "count": 1
+    },
+    {
+        "entity": "Mount",
+        "count": 25
+    },
+    {
+        "entity": "Mount Bashan",
+        "count": 2
+    },
+    {
+        "entity": "Mount Gavnunim",
+        "count": 2
+    },
+    {
+        "entity": "Mount Moriah.",
+        "count": 1
+    },
+    {
+        "entity": "Mount Shomron",
+        "count": 1
+    },
+    {
+        "entity": "Mount Sinai",
+        "count": 7
+    },
+    {
+        "entity": "Mount Zion",
+        "count": 4
+    },
+    {
+        "entity": "Naara",
+        "count": 5
+    },
+    {
+        "entity": "Nadav",
+        "count": 1
+    },
+    {
+        "entity": "Naftali",
+        "count": 2
+    },
+    {
+        "entity": "Nakdimon",
+        "count": 2
+    },
+    {
+        "entity": "Nashim",
+        "count": 1
+    },
+    {
+        "entity": "Natan",
+        "count": 4
+    },
+    {
+        "entity": "Naveh",
+        "count": 1
+    },
+    {
+        "entity": "Nebuchadnezzar",
+        "count": 14
+    },
+    {
+        "entity": "Nehemiah",
+        "count": 4
+    },
+    {
+        "entity": "Nehira",
+        "count": 1
+    },
+    {
+        "entity": "Nehora",
+        "count": 1
+    },
+    {
+        "entity": "Nekho",
+        "count": 2
+    },
+    {
+        "entity": "Nero",
+        "count": 1
+    },
+    {
+        "entity": "Netanel",
+        "count": 2
+    },
+    {
+        "entity": "Netina",
+        "count": 1
+    },
+    {
+        "entity": "Neve",
+        "count": 3
+    },
+    {
+        "entity": "Nevuzaradan",
+        "count": 1
+    },
+    {
+        "entity": "New Moon",
+        "count": 2
+    },
+    {
+        "entity": "New Year",
+        "count": 2
+    },
+    {
+        "entity": "Nezikin",
+        "count": 1
+    },
+    {
+        "entity": "Night",
+        "count": 1
+    },
+    {
+        "entity": "Nile",
+        "count": 20
+    },
+    {
+        "entity": "Nile River",
+        "count": 1
+    },
+    {
+        "entity": "Nisan",
+        "count": 11
+    },
+    {
+        "entity": "No Amon",
+        "count": 2
+    },
+    {
+        "entity": "Noah",
+        "count": 4
+    },
+    {
+        "entity": "Numbers",
+        "count": 84
+    },
+    {
+        "entity": "Nun",
+        "count": 1
+    },
+    {
+        "entity": "Nuri",
+        "count": 1
+    },
+    {
+        "entity": "Obadiah",
+        "count": 3
+    },
+    {
+        "entity": "Og",
+        "count": 18
+    },
+    {
+        "entity": "Oholiav",
+        "count": 1
+    },
+    {
+        "entity": "Olives",
+        "count": 1
+    },
+    {
+        "entity": "Omnipresent",
+        "count": 8
+    },
+    {
+        "entity": "Onkelos",
+        "count": 1
+    },
+    {
+        "entity": "Ovadya",
+        "count": 1
+    },
+    {
+        "entity": "Ovnayim",
+        "count": 1
+    },
+    {
+        "entity": "Palestine",
+        "count": 1
+    },
+    {
+        "entity": "Palit",
+        "count": 1
+    },
+    {
+        "entity": "Pangar",
+        "count": 9
+    },
+    {
+        "entity": "Pappa",
+        "count": 6
+    },
+    {
+        "entity": "Paran",
+        "count": 2
+    },
+    {
+        "entity": "Paras",
+        "count": 1
+    },
+    {
+        "entity": "Pave",
+        "count": 1
+    },
+    {
+        "entity": "Pazi",
+        "count": 1
+    },
+    {
+        "entity": "Perata",
+        "count": 2
+    },
+    {
+        "entity": "Persia",
+        "count": 19
+    },
+    {
+        "entity": "Persian",
+        "count": 4
+    },
+    {
+        "entity": "Pesikta",
+        "count": 2
+    },
+    {
+        "entity": "Pesikta Rabati",
+        "count": 1
+    },
+    {
+        "entity": "Pharaoh",
+        "count": 71
+    },
+    {
+        "entity": "Pitom",
+        "count": 4
+    },
+    {
+        "entity": "Portion",
+        "count": 1
+    },
+    {
+        "entity": "Potifar",
+        "count": 1
+    },
+    {
+        "entity": "Praetorian Guards",
+        "count": 1
+    },
+    {
+        "entity": "Prologue",
+        "count": 1
+    },
+    {
+        "entity": "Proverbs",
+        "count": 46
+    },
+    {
+        "entity": "Pu",
+        "count": 13
+    },
+    {
+        "entity": "Pumim",
+        "count": 1
+    },
+    {
+        "entity": "Queen",
+        "count": 2
+    },
+    {
+        "entity": "Queen Esther",
+        "count": 2
+    },
+    {
+        "entity": "Raamses",
+        "count": 4
+    },
+    {
+        "entity": "Raba",
+        "count": 2
+    },
+    {
+        "entity": "Rabban",
+        "count": 25
+    },
+    {
+        "entity": "Rabban Gamliel",
+        "count": 5
+    },
+    {
+        "entity": "Rabban Shimon",
+        "count": 4
+    },
+    {
+        "entity": "Rabbi",
+        "count": 766
+    },
+    {
+        "entity": "Rabbinic",
+        "count": 1
+    },
+    {
+        "entity": "Rabbis",
+        "count": 68
+    },
+    {
+        "entity": "Rachel",
+        "count": 5
+    },
+    {
+        "entity": "Rama",
+        "count": 3
+    },
+    {
+        "entity": "Rangaya",
+        "count": 1
+    },
+    {
+        "entity": "Rashash",
+        "count": 1
+    },
+    {
+        "entity": "Rashi",
+        "count": 2
+    },
+    {
+        "entity": "Rav",
+        "count": 25
+    },
+    {
+        "entity": "Rav Huna",
+        "count": 11
+    },
+    {
+        "entity": "Read",
+        "count": 3
+    },
+    {
+        "entity": "Rebbi",
+        "count": 3
+    },
+    {
+        "entity": "Rebecca",
+        "count": 8
+    },
+    {
+        "entity": "Red",
+        "count": 10
+    },
+    {
+        "entity": "Red Sea",
+        "count": 9
+    },
+    {
+        "entity": "Reeds",
+        "count": 3
+    },
+    {
+        "entity": "Refidim",
+        "count": 1
+    },
+    {
+        "entity": "Reish Lakish",
+        "count": 4
+    },
+    {
+        "entity": "Rekhav",
+        "count": 1
+    },
+    {
+        "entity": "Reshit",
+        "count": 4
+    },
+    {
+        "entity": "Return",
+        "count": 3
+    },
+    {
+        "entity": "Reuben",
+        "count": 2
+    },
+    {
+        "entity": "Reuel",
+        "count": 3
+    },
+    {
+        "entity": "Rise",
+        "count": 3
+    },
+    {
+        "entity": "River",
+        "count": 3
+    },
+    {
+        "entity": "Rock",
+        "count": 4
+    },
+    {
+        "entity": "Roman",
+        "count": 6
+    },
+    {
+        "entity": "Romans",
+        "count": 2
+    },
+    {
+        "entity": "Rome",
+        "count": 11
+    },
+    {
+        "entity": "Round",
+        "count": 1
+    },
+    {
+        "entity": "Rufus",
+        "count": 1
+    },
+    {
+        "entity": "Sabbatical Year",
+        "count": 5
+    },
+    {
+        "entity": "Sage",
+        "count": 19
+    },
+    {
+        "entity": "Sages",
+        "count": 17
+    },
+    {
+        "entity": "Samaria",
+        "count": 3
+    },
+    {
+        "entity": "Sanegurya",
+        "count": 1
+    },
+    {
+        "entity": "Sanhedrin",
+        "count": 12
+    },
+    {
+        "entity": "Sarah",
+        "count": 10
+    },
+    {
+        "entity": "Sarai",
+        "count": 2
+    },
+    {
+        "entity": "Saul",
+        "count": 3
+    },
+    {
+        "entity": "Savior",
+        "count": 4
+    },
+    {
+        "entity": "Scripture",
+        "count": 6
+    },
+    {
+        "entity": "Sea",
+        "count": 13
+    },
+    {
+        "entity": "Sela",
+        "count": 1
+    },
+    {
+        "entity": "Sennacherib",
+        "count": 2
+    },
+    {
+        "entity": "Shabbat",
+        "count": 15
+    },
+    {
+        "entity": "Shalom",
+        "count": 2
+    },
+    {
+        "entity": "Sheba",
+        "count": 1
+    },
+    {
+        "entity": "Shechinah",
+        "count": 7
+    },
+    {
+        "entity": "Sheila",
+        "count": 4
+    },
+    {
+        "entity": "Shelomit",
+        "count": 1
+    },
+    {
+        "entity": "Shem",
+        "count": 20
+    },
+    {
+        "entity": "Shema",
+        "count": 5
+    },
+    {
+        "entity": "Shemaya",
+        "count": 3
+    },
+    {
+        "entity": "Shemot",
+        "count": 12
+    },
+    {
+        "entity": "Shemot Rabba",
+        "count": 1
+    },
+    {
+        "entity": "Shevna",
+        "count": 1
+    },
+    {
+        "entity": "Shifra",
+        "count": 7
+    },
+    {
+        "entity": "Shilo",
+        "count": 3
+    },
+    {
+        "entity": "Shime",
+        "count": 1
+    },
+    {
+        "entity": "Shimon",
+        "count": 32
+    },
+    {
+        "entity": "Shishak",
+        "count": 3
+    },
+    {
+        "entity": "Shmuel",
+        "count": 34
+    },
+    {
+        "entity": "Shovav",
+        "count": 2
+    },
+    {
+        "entity": "Shushan",
+        "count": 3
+    },
+    {
+        "entity": "Sifri",
+        "count": 1
+    },
+    {
+        "entity": "Sigena",
+        "count": 1
+    },
+    {
+        "entity": "Sikhnin",
+        "count": 7
+    },
+    {
+        "entity": "Simeon",
+        "count": 2
+    },
+    {
+        "entity": "Simon",
+        "count": 45
+    },
+    {
+        "entity": "Sinai",
+        "count": 35
+    },
+    {
+        "entity": "Sivan",
+        "count": 3
+    },
+    {
+        "entity": "Six",
+        "count": 8
+    },
+    {
+        "entity": "Sodom",
+        "count": 1
+    },
+    {
+        "entity": "Sokho",
+        "count": 4
+    },
+    {
+        "entity": "Solomon",
+        "count": 32
+    },
+    {
+        "entity": "Someone",
+        "count": 1
+    },
+    {
+        "entity": "Song",
+        "count": 30
+    },
+    {
+        "entity": "Songs",
+        "count": 15
+    },
+    {
+        "entity": "Spin",
+        "count": 1
+    },
+    {
+        "entity": "Suf",
+        "count": 2
+    },
+    {
+        "entity": "Sukatites",
+        "count": 1
+    },
+    {
+        "entity": "Sukkot",
+        "count": 1
+    },
+    {
+        "entity": "Susita",
+        "count": 1
+    },
+    {
+        "entity": "Tabernacle",
+        "count": 29
+    },
+    {
+        "entity": "Tablets",
+        "count": 2
+    },
+    {
+        "entity": "Talmud",
+        "count": 4
+    },
+    {
+        "entity": "Tamuz",
+        "count": 5
+    },
+    {
+        "entity": "Tarfon",
+        "count": 2
+    },
+    {
+        "entity": "Targum",
+        "count": 2
+    },
+    {
+        "entity": "Taskmasters",
+        "count": 1
+    },
+    {
+        "entity": "Tavrin",
+        "count": 1
+    },
+    {
+        "entity": "Teharot",
+        "count": 1
+    },
+    {
+        "entity": "Tehillim",
+        "count": 1
+    },
+    {
+        "entity": "Tekoa",
+        "count": 3
+    },
+    {
+        "entity": "Tell",
+        "count": 5
+    },
+    {
+        "entity": "Temple",
+        "count": 68
+    },
+    {
+        "entity": "Temple Mount",
+        "count": 2
+    },
+    {
+        "entity": "Ten Commandments",
+        "count": 4
+    },
+    {
+        "entity": "Ten Tribes",
+        "count": 4
+    },
+    {
+        "entity": "Tent",
+        "count": 20
+    },
+    {
+        "entity": "Tent of Meeting",
+        "count": 20
+    },
+    {
+        "entity": "Terada",
+        "count": 1
+    },
+    {
+        "entity": "Testimony",
+        "count": 5
+    },
+    {
+        "entity": "Tevet",
+        "count": 3
+    },
+    {
+        "entity": "Tiberias",
+        "count": 1
+    },
+    {
+        "entity": "Tiratites",
+        "count": 1
+    },
+    {
+        "entity": "Tishrei",
+        "count": 3
+    },
+    {
+        "entity": "Titus",
+        "count": 1
+    },
+    {
+        "entity": "Tofel",
+        "count": 2
+    },
+    {
+        "entity": "Tofet",
+        "count": 1
+    },
+    {
+        "entity": "Tomorrow",
+        "count": 2
+    },
+    {
+        "entity": "Torah",
+        "count": 134
+    },
+    {
+        "entity": "Tov",
+        "count": 4
+    },
+    {
+        "entity": "Toviya",
+        "count": 3
+    },
+    {
+        "entity": "Trajan",
+        "count": 3
+    },
+    {
+        "entity": "Twelve",
+        "count": 1
+    },
+    {
+        "entity": "Tyre",
+        "count": 2
+    },
+    {
+        "entity": "Tzadok",
+        "count": 7
+    },
+    {
+        "entity": "Tzeret",
+        "count": 2
+    },
+    {
+        "entity": "Tzipora",
+        "count": 4
+    },
+    {
+        "entity": "Tzoan",
+        "count": 1
+    },
+    {
+        "entity": "Ukeva",
+        "count": 3
+    },
+    {
+        "entity": "Umsatrata",
+        "count": 1
+    },
+    {
+        "entity": "Unique One",
+        "count": 3
+    },
+    {
+        "entity": "Uri",
+        "count": 3
+    },
+    {
+        "entity": "Uziahu",
+        "count": 1
+    },
+    {
+        "entity": "Uzziahu",
+        "count": 1
+    },
+    {
+        "entity": "Va",
+        "count": 27
+    },
+    {
+        "entity": "Valley",
+        "count": 3
+    },
+    {
+        "entity": "Vashti",
+        "count": 1
+    },
+    {
+        "entity": "Vatisa",
+        "count": 1
+    },
+    {
+        "entity": "Vayikar",
+        "count": 1
+    },
+    {
+        "entity": "Vayikra",
+        "count": 9
+    },
+    {
+        "entity": "Vayirdena",
+        "count": 1
+    },
+    {
+        "entity": "Vayizaku",
+        "count": 1
+    },
+    {
+        "entity": "Vayoshian",
+        "count": 1
+    },
+    {
+        "entity": "Vespasian",
+        "count": 20
+    },
+    {
+        "entity": "Widow",
+        "count": 1
+    },
+    {
+        "entity": "Wilderness",
+        "count": 1
+    },
+    {
+        "entity": "Wisdom",
+        "count": 2
+    },
+    {
+        "entity": "Woe",
+        "count": 5
+    },
+    {
+        "entity": "Wolves",
+        "count": 1
+    },
+    {
+        "entity": "World to Come",
+        "count": 10
+    },
+    {
+        "entity": "Won",
+        "count": 1
+    },
+    {
+        "entity": "Yaakov",
+        "count": 3
+    },
+    {
+        "entity": "Yabetz",
+        "count": 1
+    },
+    {
+        "entity": "Yah",
+        "count": 2
+    },
+    {
+        "entity": "Yakeh",
+        "count": 2
+    },
+    {
+        "entity": "Yalkut Shimoni",
+        "count": 1
+    },
+    {
+        "entity": "Yedidya",
+        "count": 3
+    },
+    {
+        "entity": "Yefe Anaf",
+        "count": 1
+    },
+    {
+        "entity": "Yefei Anaf",
+        "count": 1
+    },
+    {
+        "entity": "Yefet",
+        "count": 3
+    },
+    {
+        "entity": "Yehoshafat",
+        "count": 1
+    },
+    {
+        "entity": "Yehoshua",
+        "count": 43
+    },
+    {
+        "entity": "Yehuda",
+        "count": 72
+    },
+    {
+        "entity": "Yehudah",
+        "count": 12
+    },
+    {
+        "entity": "Yekutiel",
+        "count": 4
+    },
+    {
+        "entity": "Yeriot",
+        "count": 2
+    },
+    {
+        "entity": "Yeshurun",
+        "count": 1
+    },
+    {
+        "entity": "Yinon",
+        "count": 1
+    },
+    {
+        "entity": "Yishai",
+        "count": 1
+    },
+    {
+        "entity": "Yishmael",
+        "count": 20
+    },
+    {
+        "entity": "Yitro",
+        "count": 11
+    },
+    {
+        "entity": "Yizre",
+        "count": 1
+    },
+    {
+        "entity": "Yochai",
+        "count": 3
+    },
+    {
+        "entity": "Yochanan",
+        "count": 2
+    },
+    {
+        "entity": "Yokheved",
+        "count": 9
+    },
+    {
+        "entity": "Yom Kippur",
+        "count": 2
+    },
+    {
+        "entity": "Yoshiyahu",
+        "count": 7
+    },
+    {
+        "entity": "Yossi Haglili",
+        "count": 2
+    },
+    {
+        "entity": "Yudan",
+        "count": 10
+    },
+    {
+        "entity": "Zakai",
+        "count": 13
+    },
+    {
+        "entity": "Zano",
+        "count": 4
+    },
+    {
+        "entity": "Zavdi",
+        "count": 1
+    },
+    {
+        "entity": "Zebulun",
+        "count": 2
+    },
+    {
+        "entity": "Zechariah",
+        "count": 15
+    },
+    {
+        "entity": "Zedekiah",
+        "count": 5
+    },
+    {
+        "entity": "Zekharya",
+        "count": 1
+    },
+    {
+        "entity": "Zephaniah",
+        "count": 3
+    },
+    {
+        "entity": "Zera",
+        "count": 3
+    },
+    {
+        "entity": "Zimra",
+        "count": 3
+    },
+    {
+        "entity": "Zion",
+        "count": 35
+    }
+]

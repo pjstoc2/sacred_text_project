@@ -1,0 +1,674 @@
+[
+    {
+        "entity": "#NAME?",
+        "count": 0
+    },
+    {
+        "entity": "Abel",
+        "count": 2
+    },
+    {
+        "entity": "Accursed Valley",
+        "count": 1
+    },
+    {
+        "entity": "Adam",
+        "count": 2
+    },
+    {
+        "entity": "Advent",
+        "count": 1
+    },
+    {
+        "entity": "Alexander",
+        "count": 2
+    },
+    {
+        "entity": "Ananel",
+        "count": 1
+    },
+    {
+        "entity": "Angels",
+        "count": 14
+    },
+    {
+        "entity": "Apocalypse",
+        "count": 1
+    },
+    {
+        "entity": "Apostates",
+        "count": 2
+    },
+    {
+        "entity": "Arakiba",
+        "count": 1
+    },
+    {
+        "entity": "Archangels",
+        "count": 4
+    },
+    {
+        "entity": "Armaros",
+        "count": 3
+    },
+    {
+        "entity": "Armen",
+        "count": 1
+    },
+    {
+        "entity": "Asael",
+        "count": 1
+    },
+    {
+        "entity": "Asbeel",
+        "count": 1
+    },
+    {
+        "entity": "Asonja",
+        "count": 1
+    },
+    {
+        "entity": "Azazel",
+        "count": 11
+    },
+    {
+        "entity": "Baraqel",
+        "count": 1
+    },
+    {
+        "entity": "Baraqijal",
+        "count": 2
+    },
+    {
+        "entity": "Batarel",
+        "count": 1
+    },
+    {
+        "entity": "Batarjal",
+        "count": 1
+    },
+    {
+        "entity": "Behemoth",
+        "count": 2
+    },
+    {
+        "entity": "Benase",
+        "count": 1
+    },
+    {
+        "entity": "Biqa",
+        "count": 1
+    },
+    {
+        "entity": "Bronze",
+        "count": 1
+    },
+    {
+        "entity": "Cain",
+        "count": 2
+    },
+    {
+        "entity": "Cainan",
+        "count": 1
+    },
+    {
+        "entity": "Carob",
+        "count": 1
+    },
+    {
+        "entity": "The Cherubic",
+        "count": 0
+    },
+    {
+        "entity": "Cherubim",
+        "count": 1
+    },
+    {
+        "entity": "Cyrus",
+        "count": 1
+    },
+    {
+        "entity": "Dan",
+        "count": 4
+    },
+    {
+        "entity": "Danel",
+        "count": 1
+    },
+    {
+        "entity": "Danjal",
+        "count": 1
+    },
+    {
+        "entity": "Deluge",
+        "count": 3
+    },
+    {
+        "entity": "Dudael",
+        "count": 1
+    },
+    {
+        "entity": "Earth",
+        "count": 3
+    },
+    {
+        "entity": "Edna",
+        "count": 1
+    },
+    {
+        "entity": "Elect",
+        "count": 23
+    },
+    {
+        "entity": "Elect One",
+        "count": 22
+    },
+    {
+        "entity": "Elements",
+        "count": 1
+    },
+    {
+        "entity": "Enoch",
+        "count": 51
+    },
+    {
+        "entity": "Enos",
+        "count": 1
+    },
+    {
+        "entity": "Erythraean Sea",
+        "count": 2
+    },
+    {
+        "entity": "Eternal King",
+        "count": 5
+    },
+    {
+        "entity": "Eternal Lord",
+        "count": 1
+    },
+    {
+        "entity": "Exodus",
+        "count": 1
+    },
+    {
+        "entity": "Ezeqeel",
+        "count": 2
+    },
+    {
+        "entity": "Fallen Angels",
+        "count": 2
+    },
+    {
+        "entity": "First Parable",
+        "count": 2
+    },
+    {
+        "entity": "Falsifiers of the Words",
+        "count": 1
+    },
+    {
+        "entity": "Gabriel",
+        "count": 8
+    },
+    {
+        "entity": "Gadreel",
+        "count": 1
+    },
+    {
+        "entity": "Garden of Righteousness",
+        "count": 2
+    },
+    {
+        "entity": "Gentiles",
+        "count": 4
+    },
+    {
+        "entity": "Glory",
+        "count": 9
+    },
+    {
+        "entity": "God",
+        "count": 31
+    },
+    {
+        "entity": "Great Glory",
+        "count": 2
+    },
+    {
+        "entity": "Great Holy One",
+        "count": 1
+    },
+    {
+        "entity": "Great King",
+        "count": 2
+    },
+    {
+        "entity": "Great One",
+        "count": 12
+    },
+    {
+        "entity": "Great Sea",
+        "count": 3
+    },
+    {
+        "entity": "Hananel",
+        "count": 1
+    },
+    {
+        "entity": "Heaven",
+        "count": 5
+    },
+    {
+        "entity": "Heavenly Tablets",
+        "count": 1
+    },
+    {
+        "entity": "Hermon",
+        "count": 3
+    },
+    {
+        "entity": "Hilujaseph",
+        "count": 1
+    },
+    {
+        "entity": "Holy",
+        "count": 13
+    },
+    {
+        "entity": "Holy Great One",
+        "count": 5
+    },
+    {
+        "entity": "Holy One",
+        "count": 4
+    },
+    {
+        "entity": "Honoured",
+        "count": 1
+    },
+    {
+        "entity": "Intercession",
+        "count": 1
+    },
+    {
+        "entity": "Israel",
+        "count": 3
+    },
+    {
+        "entity": "Jared",
+        "count": 3
+    },
+    {
+        "entity": "Jerusalem",
+        "count": 4
+    },
+    {
+        "entity": "Jetrel",
+        "count": 1
+    },
+    {
+        "entity": "Jomjael",
+        "count": 1
+    },
+    {
+        "entity": "Journey",
+        "count": 5
+    },
+    {
+        "entity": "Judah",
+        "count": 1
+    },
+    {
+        "entity": "Kasbeel",
+        "count": 1
+    },
+    {
+        "entity": "Kasdeja",
+        "count": 1
+    },
+    {
+        "entity": "King",
+        "count": 19
+    },
+    {
+        "entity": "Kings",
+        "count": 4
+    },
+    {
+        "entity": "Kokabiel",
+        "count": 1
+    },
+    {
+        "entity": "Lamech",
+        "count": 7
+    },
+    {
+        "entity": "Law",
+        "count": 3
+    },
+    {
+        "entity": "Lebanon",
+        "count": 1
+    },
+    {
+        "entity": "Leviathan",
+        "count": 2
+    },
+    {
+        "entity": "Lord of Spirits",
+        "count": 105
+    },
+    {
+        "entity": "Lord",
+        "count": 215
+    },
+    {
+        "entity": "Lot",
+        "count": 2
+    },
+    {
+        "entity": "Maccabaean Revolt",
+        "count": 1
+    },
+    {
+        "entity": "Mahalalel",
+        "count": 3
+    },
+    {
+        "entity": "Man",
+        "count": 25
+    },
+    {
+        "entity": "Mankind",
+        "count": 3
+    },
+    {
+        "entity": "Melkejal",
+        "count": 1
+    },
+    {
+        "entity": "Men",
+        "count": 1
+    },
+    {
+        "entity": "Messiah",
+        "count": 2
+    },
+    {
+        "entity": "Messianic Kingdom",
+        "count": 2
+    },
+    {
+        "entity": "Metal Mountains",
+        "count": 1
+    },
+    {
+        "entity": "Methuselah",
+        "count": 14
+    },
+    {
+        "entity": "Michael",
+        "count": 19
+    },
+    {
+        "entity": "Mighty",
+        "count": 4
+    },
+    {
+        "entity": "Mine Elect",
+        "count": 4
+    },
+    {
+        "entity": "Mine Elect One",
+        "count": 4
+    },
+    {
+        "entity": "Mine Elect Ones",
+        "count": 1
+    },
+    {
+        "entity": "Mission",
+        "count": 1
+    },
+    {
+        "entity": "Moon",
+        "count": 3
+    },
+    {
+        "entity": "Most",
+        "count": 17
+    },
+    {
+        "entity": "Most High",
+        "count": 17
+    },
+    {
+        "entity": "Mount Hermon",
+        "count": 2
+    },
+    {
+        "entity": "Mount Sinai",
+        "count": 1
+    },
+    {
+        "entity": "Mountains",
+        "count": 4
+    },
+    {
+        "entity": "Names",
+        "count": 1
+    },
+    {
+        "entity": "Narel",
+        "count": 1
+    },
+    {
+        "entity": "Nature",
+        "count": 2
+    },
+    {
+        "entity": "New Earth",
+        "count": 1
+    },
+    {
+        "entity": "New Heaven",
+        "count": 1
+    },
+    {
+        "entity": "New Jerusalem",
+        "count": 1
+    },
+    {
+        "entity": "Noachic Fragment",
+        "count": 1
+    },
+    {
+        "entity": "Noah",
+        "count": 12
+    },
+    {
+        "entity": "North",
+        "count": 3
+    },
+    {
+        "entity": "Ophannin",
+        "count": 2
+    },
+    {
+        "entity": "Orjares",
+        "count": 1
+    },
+    {
+        "entity": "Palestine",
+        "count": 1
+    },
+    {
+        "entity": "Parables",
+        "count": 3
+    },
+    {
+        "entity": "Paradise",
+        "count": 2
+    },
+    {
+        "entity": "Parthians",
+        "count": 1
+    },
+    {
+        "entity": "Penemue",
+        "count": 1
+    },
+    {
+        "entity": "Phanuel",
+        "count": 5
+    },
+    {
+        "entity": "Raguel",
+        "count": 2
+    },
+    {
+        "entity": "Rameel",
+        "count": 1
+    },
+    {
+        "entity": "Ramiel",
+        "count": 1
+    },
+    {
+        "entity": "Raphael",
+        "count": 16
+    },
+    {
+        "entity": "Ravines",
+        "count": 1
+    },
+    {
+        "entity": "Remiel",
+        "count": 1
+    },
+    {
+        "entity": "Righteous One",
+        "count": 1
+    },
+    {
+        "entity": "Rumjal",
+        "count": 1
+    },
+    {
+        "entity": "Safety",
+        "count": 1
+    },
+    {
+        "entity": "Samjaza",
+        "count": 1
+    },
+    {
+        "entity": "Samsapeel",
+        "count": 1
+    },
+    {
+        "entity": "Saraqael",
+        "count": 1
+    },
+    {
+        "entity": "Sariel",
+        "count": 2
+    },
+    {
+        "entity": "Satan",
+        "count": 5
+    },
+    {
+        "entity": "Satarel",
+        "count": 1
+    },
+    {
+        "entity": "Second Parable",
+        "count": 2
+    },
+    {
+        "entity": "Semiazaz",
+        "count": 1
+    },
+    {
+        "entity": "Semjaza",
+        "count": 4
+    },
+    {
+        "entity": "Seneser",
+        "count": 1
+    },
+    {
+        "entity": "Seraphin",
+        "count": 2
+    },
+    {
+        "entity": "Seth",
+        "count": 1
+    },
+    {
+        "entity": "Shamsiel",
+        "count": 1
+    },
+    {
+        "entity": "Sheol",
+        "count": 10
+    },
+    {
+        "entity": "Simapesiel",
+        "count": 1
+    },
+    {
+        "entity": "Son",
+        "count": 19
+    },
+    {
+        "entity": "Sun",
+        "count": 4
+    },
+    {
+        "entity": "Tamiel",
+        "count": 1
+    },
+    {
+        "entity": "Third Parable",
+        "count": 3
+    },
+    {
+        "entity": "Tartarus",
+        "count": 1
+    },
+    {
+        "entity": "Tree of Life",
+        "count": 1
+    },
+    {
+        "entity": "Tumael",
+        "count": 1
+    },
+    {
+        "entity": "Turel",
+        "count": 3
+    },
+    {
+        "entity": "Twelve Windows",
+        "count": 1
+    },
+    {
+        "entity": "Underworld",
+        "count": 1
+    },
+    {
+        "entity": "Uriel",
+        "count": 16
+    },
+    {
+        "entity": "Watchers",
+        "count": 15
+    },
+    {
+        "entity": "Zaqiel",
+        "count": 1
+    }
+]
