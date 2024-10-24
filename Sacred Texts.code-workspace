@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Data/Projects/Sacred Text Analysis/Text Files/Bible KJV"
+		},
+		{
+			"path": "../Data/Projects/Sacred Text Analysis"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sacred Text Analysis"
+	}
+}

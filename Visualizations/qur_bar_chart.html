@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Entity Count Visualization</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <h2>Top 100 Entity Counts in the Quran</h2>
+    <div id="chart"></div>
+    
+    <script>
+        // Load JSON data
+        d3.json("qur_entity_counts.json").then(function(data) {
+
+            // Sort data by count in descending order
+            data.sort((a, b) => b.count - a.count);
+
+            // Restrict to the top 100 entities
+            const top100 = data.slice(0, 100);
+
+            // Set dimensions for the chart dynamically based on the number of entities
+            const barWidth = 20;  // Width of each bar
+            const width = top100.length * barWidth;  // Dynamic width based on number of entities
+            const height = 400;
+            const margin = {top: 20, right: 20, bottom: 100, left: 50};
+
+            // Create SVG container with margins
+            const svg = d3.select("#chart")
+                          .append("svg")
+                          .attr("width", width + margin.left + margin.right)
+                          .attr("height", height + margin.top + margin.bottom)
+                          .append("g")
+                          .attr("transform", `translate(${margin.left},${margin.top})`);
+
+            // Set up scales
+            const xScale = d3.scaleBand()
+                             .domain(top100.map(d => d.entity))
+                             .range([0, width])
+                             .padding(0.1);
+            
+            const yScale = d3.scaleLinear()
+                             .domain([0, d3.max(top100, d => d.count)])
+                             .range([height, 0]);
+
+            // Create bars
+            svg.selectAll(".bar")
+               .data(top100)
+               .enter()
+               .append("rect")
+               .attr("class", "bar")
+               .attr("x", d => xScale(d.entity))
+               .attr("y", d => yScale(d.count))
+               .attr("width", xScale.bandwidth())
+               .attr("height", d => height - yScale(d.count))
+               .attr("fill", "steelblue");
+
+            // Add X axis with rotated labels for better readability
+            svg.append("g")
+               .attr("transform", `translate(0,${height})`)
+               .call(d3.axisBottom(xScale))
+               .selectAll("text")
+               .attr("transform", "rotate(-45)")
+               .style("text-anchor", "end");
+
+            // Add Y axis
+            svg.append("g")
+               .call(d3.axisLeft(yScale));
+        });
+    </script>
+</body>
+</html>
